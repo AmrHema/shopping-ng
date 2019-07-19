@@ -1,0 +1,11 @@
+https://github.com/AmrHema/tsstDeploy/settings
+
+
+
+site 	:	https://amrhema.github.io/tsstDeploy/
+
+
+solution nott recognize
+
+C:\Program Files\Git\bin\;C:\Program Files\Git\cmd\;C:\Users\amr\AppData\Roaming\npm;C:\Windows\System32;C:\Users\amr\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\Git;C:\Program Files\nodejs;C:\Program Files\Java\jre7\bin;
+
